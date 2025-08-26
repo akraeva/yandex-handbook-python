@@ -1,5 +1,5 @@
 # Yandex / Хендбуки / Основы Python
-# 6.X. Модули math и numpy
+# 6.1. Модули math и numpy
 
 from sys import stdin
 import numpy as np
